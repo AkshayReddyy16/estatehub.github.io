@@ -39,10 +39,4 @@ In this project, we will:
 - **Python Flask**: Framework for creating the web server.
 - **HTML/CSS/JavaScript**: Technologies for developing the front-end user interface.
 
-## Screenshot
 
-Here is a screenshot of the prediction interface:
-
-![Estate Image](Realestateprediction/estate.jpg)
-
-...
