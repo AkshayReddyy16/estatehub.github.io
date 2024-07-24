@@ -43,4 +43,6 @@ In this project, we will:
 
 Here is a screenshot of the prediction interface:
 
-![Prediction Interface](Realestateprediction/estate.jpeg)
+![Estate Image](Realestateprediction/estate_image.jpg)
+
+...
